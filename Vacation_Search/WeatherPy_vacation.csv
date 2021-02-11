@@ -1,147 +1,142 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-4,Tasiilaq,GL,32.0,snow,65.6145,-37.6368,The Red House
-12,Port-Cartier,CA,30.99,snow,50.0334,-66.8654,Le Q'Artier
-19,Kodiak,US,28.4,clear sky,57.79,-152.4072,Best Western Kodiak Inn And Convention Center
-23,Kijang,KR,35.6,clear sky,35.2442,129.2139,Samyang Beach Villa
-26,Havre-Saint-Pierre,CA,32.0,snow,50.2334,-63.5986,Auberge Niapiskau
-27,Carballo,ES,46.99,few clouds,43.213,-8.691,Pazo do Souto
-28,Qaanaaq,GL,11.07,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
-30,Upernavik,GL,20.59,overcast clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
-31,Kobylka,PL,19.99,scattered clouds,52.3395,21.1959,Hotel Trylogia
-38,Roma,US,28.4,overcast clouds,43.2128,-75.4557,Wingate By Wyndham Rome
-39,Gucheng,CN,46.36,broken clouds,35.9115,111.3192,古城宾馆
-41,Fortuna,US,46.99,overcast clouds,40.5982,-124.1573,Super 8 by Wyndham Fortuna
-42,Havoysund,NO,24.8,light snow,70.9963,24.6622,Arctic View Glamping & Restaurant
-44,Asau,RO,30.0,overcast clouds,46.4333,26.4,Casa Mika Ciobanus
-46,Pangnirtung,CA,14.0,broken clouds,66.1451,-65.7125,Kilabuk Lodge
-49,Bonavista,CA,36.0,overcast clouds,48.6499,-53.1147,Abbott's Bed & Breakfast
-58,Sitka,US,35.6,light snow,57.0531,-135.33,Westmark Sitka
-59,Bethel,US,39.99,scattered clouds,41.3712,-73.414,Courtyard by Marriott Danbury
-60,Mataura,NZ,48.85,clear sky,-46.1927,168.8643,Ellie's Villa
-69,Lasa,IT,42.01,scattered clouds,46.6166,10.7002,Pension Feldgärtenhof
-73,Vestmanna,FO,33.8,light rain,62.1564,-7.1664,Budget Guesthouse Borgustova
-82,Sysert,RU,33.8,light snow,56.4953,60.8192,кашино
-84,Yerkoy,TR,49.87,clear sky,39.6381,34.4672,Yerköy Öğretmenevi
-89,Narsaq,GL,33.8,clear sky,60.9167,-46.05,Hotel Narsaq
-98,Saint George,US,48.99,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
-104,Jamestown,US,19.4,clear sky,42.097,-79.2353,Hampton Inn & Suites Jamestown
-111,Torbay,CA,37.0,light rain,47.6666,-52.7314,Gallows Cove
-116,Rumford,US,34.0,broken clouds,44.5537,-70.5509,coastal rentals llc
-121,Vestmannaeyjar,IS,37.4,few clouds,63.4427,-20.2734,Glamping & Camping
-122,Klaksvik,FO,33.8,light rain,62.2266,-6.5889999999999995,Airbnb rooms
-127,Vardo,NO,27.14,light snow,70.3705,31.1107,Vardø Hotel AS
-129,Fairlie,GB,39.0,overcast clouds,55.756,-4.8556,Brisbane House Hotel
-135,Mayo,US,48.99,broken clouds,38.8876,-76.5119,Resorts Resource Group International
-136,Severo-Kurilsk,RU,20.12,light snow,50.6789,156.125,Kak Doma
-145,Hasaki,JP,39.2,few clouds,35.7333,140.8333,Inubosaki Kanko Hotel
-161,Shihezi,CN,14.38,scattered clouds,44.3,86.0333,Home Inn Shihezi Dongwu Road Century Square
-169,Katsuura,JP,46.4,clear sky,35.1333,140.3,Katsuura Hotel Mikazuki
-171,Sorland,NO,34.81,overcast clouds,67.667,12.6934,Sjybrygga fiskecamp
-180,Nara,JP,43.0,scattered clouds,34.6851,135.8049,Guesthouse Nara Komachi
-183,Qasigiannguit,GL,19.4,snow,68.8193,-51.1922,Hotel Discobay
-185,Vigrestad,NO,23.0,clear sky,58.5667,5.7,Brusand Camping
-187,Suixi,CN,48.97,clear sky,33.8907,116.7747,Campanile Hotel
-193,Hofn,IS,35.44,overcast clouds,64.2539,-15.2082,Hótel Höfn
-200,Yatou,CN,37.62,broken clouds,37.15,122.3833,GreenTree Hotel Rongcheng Bus Station
-205,Olafsvik,IS,36.0,overcast clouds,64.8945,-23.7142,Hotel Olafsvik
-208,Maniitsoq,GL,24.93,clear sky,65.4167,-52.9,Hotel Heilmann Lyberth
-210,Nikolskoye,RU,10.99,snow,59.7035,30.7861,Tourist House - Sablino
-211,Tashtagol,RU,23.23,overcast clouds,52.7657,87.8894,коттедж
-213,Tromso,NO,28.4,light snow,69.6496,18.957,"Radisson Blu Hotel, Tromsø"
-216,Krasnystaw,PL,17.6,few clouds,50.9846,23.1742,Internat Liceum Ogólnokształcącego nr I
-218,Port Hardy,CA,42.8,light rain,50.6996,-127.4199,Airport Inn
-221,Vila,PT,46.0,broken clouds,42.0304,-8.1588,Hotel Castrum Villae by Walk Hotels
-225,Mehamn,NO,25.72,light snow,71.0357,27.8492,Mehamn Arctic Hotel AS
-227,Hashtgerd,IR,44.6,fog,35.9642,50.6858,Parse System
-228,Westport,US,42.8,clear sky,41.1415,-73.3579,Norwalk Inn
-236,Scarborough,GB,37.0,light rain,54.2797,-0.4044,Ambassador
-237,Portland,US,44.6,overcast clouds,45.5234,-122.6762,Embassy Suites by Hilton Portland Downtown
-251,West Wendover,US,35.6,clear sky,40.7391,-114.0733,"Motel 6 Wendover, UT"
-256,Umba,RU,19.53,overcast clouds,66.6871,34.3429,Cedar Grass Beloye More
-263,Weiser,US,41.0,broken clouds,44.251000000000005,-116.9693,The Colonial Motel
-265,Nemuro,JP,27.45,overcast clouds,43.3236,145.575,Hotel Nemuro Kaiyoutei
-268,Chapais,CA,17.6,scattered clouds,49.7834,-74.8492,Hôtel Opémiska
-277,Iqaluit,CA,23.0,overcast clouds,63.7506,-68.5145,Frobisher Inn
-286,Yanji,CN,12.42,broken clouds,42.9075,129.5078,Holiday Inn Changbaishan Suites
-289,Newport,GB,41.0,overcast clouds,51.5877,-2.9984,ibis budget Newport
-294,Ilulissat,GL,19.4,snow,69.2167,-51.1,Hotel Arctic
-302,Tara,RU,32.76,overcast clouds,56.8944,74.37100000000001,Medved'
-308,Saint-Francois,FR,48.99,clear sky,46.4154,3.9054,Manoir Du Bonheur
-309,Terme,TR,50.0,clear sky,41.2092,36.9739,OTEL GÜVEN TERME
-315,Lozuvatka,UA,23.0,clear sky,48.0571,33.2858,Richka
-319,Kyzyl-Suu,KG,30.16,overcast clouds,42.3414,78.0056,Gostinitsa Nur-Ordo
-320,Birjand,IR,50.0,clear sky,32.8663,59.2211,Birjand Tourist Hotel
-328,Skibbereen,IE,42.8,broken clouds,51.55,-9.2667,The West Cork Hotel
-338,Derzhavinsk,KZ,34.38,light snow,51.1,66.3167,Ooo.khim Baza
-340,Paamiut,GL,23.04,clear sky,61.994,-49.6678,Yeet Hotel
-341,Bereda,ES,44.01,scattered clouds,43.2686,-7.5406,Pazo de Verdes
-343,Margate,GB,45.0,moderate rain,51.3813,1.3862,Premier Inn Margate hotel
-346,Brigantine,US,48.2,few clouds,39.4101,-74.3646,Legacy Vacation Resort Brigantine Beach
-351,Ust-Ishim,RU,32.83,overcast clouds,57.6935,71.1665,"Velichko T.p., Gostinitsa"
-360,Palmer,US,39.99,scattered clouds,42.1584,-72.3287,Wedgewood Motel
-362,Beyneu,KZ,29.5,clear sky,45.3167,55.2,NUR
-374,Hammerfest,NO,24.8,light snow,70.6634,23.6821,Skytterhuset
-379,Blyth,GB,39.0,moderate rain,55.1271,-1.5086,Luxury Caravan with Sea Views close to Beach
-382,Southampton,GB,43.0,clear sky,50.903999999999996,-1.4043,Leonardo Royal Southampton Grand Harbour
-383,Husavik,IS,32.0,broken clouds,66.0449,-17.3389,Bjarnabúð
-387,Laguna,US,50.0,clear sky,38.421,-121.4238,Holiday Inn Express & Suites Elk Grove Central - Hwy 99
-393,Khani,GE,48.2,few clouds,41.9563,42.9566,კურორტი ზეკარი/Resort Zekari
-394,Liberty,US,48.2,overcast clouds,31.8335,-81.5004,Sasser Trailer Park
-402,La Rioja,ES,46.4,overcast clouds,42.25,-2.5,Casa Concejos
-403,Kushiro,JP,26.55,overcast clouds,42.975,144.3747,Toyoko Inn Kushiro Jujigai
-411,Roald,NO,21.0,clear sky,62.5833,6.1333,Flem Cabins
-414,Nome,US,15.8,overcast clouds,64.5011,-165.4064,Dredge 7 Inn
-417,Marquette,US,10.0,overcast clouds,46.5333,-87.6335,Al Quaal Lodge
-424,Haileybury,CA,15.8,light snow,47.449,-79.6373,Haileybury Beach Motel
-427,Akdepe,TM,48.2,clear sky,42.0551,59.3788,Мой дом
-431,Mantua,IT,50.0,overcast clouds,45.1667,10.7833,Hotel la Favorita
-432,Kenai,US,10.99,mist,60.5544,-151.2583,Aspen Extended Stay Suites
-436,Longyearbyen,SJ,23.0,broken clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
-438,Inverness,GB,35.01,broken clouds,57.4791,-4.224,Glen Mhor Hotel & Apartments
-453,Hamilton,US,30.2,clear sky,39.1834,-84.5333,Six Acres Bed & Breakfast
-455,Kegums,LV,15.8,light snow,56.7451,24.7244,Oškrogs
-459,Jimo,CN,48.0,clear sky,36.3897,120.4622,Thank Inn Chain Hotel Shandong Jimo Bus Station
-476,Frome,GB,41.0,few clouds,51.2283,-2.3221,Premier Inn Frome hotel
-484,Bay City,US,19.0,overcast clouds,43.5945,-83.8889,DoubleTree by Hilton Hotel Bay City - Riverfront
-489,Yingcheng,CN,46.4,mist,30.95,113.55,Yingcheng Hotel
-490,Northam,GB,41.0,moderate rain,51.0333,-4.2167,Durrant House Hotel
-492,Gravdal,NO,32.74,broken clouds,68.1214,13.5031,Skreda Rorbusuiter
-522,Saint John,CA,33.01,light snow,45.2727,-66.0677,Delta Hotels by Marriott Saint John
-523,Bijar,IR,38.01,overcast clouds,35.8668,47.6051,رنگ فروشي جواهري
-524,Lidkoping,SE,17.6,scattered clouds,58.5052,13.1577,Hotell Läckö - GRAND HOTEL
-528,Golden,US,39.99,broken clouds,39.7555,-105.2211,"The Golden Hotel, Ascend Hotel Collection"
-536,Yuzhou,CN,46.4,clear sky,34.1628,113.4639,Hancheng Wen Yuan Ge Hotel
-538,Los Lunas,US,46.99,clear sky,34.8062,-106.7334,Western Skies Inns & Suites
-539,Winslow,US,43.0,clear sky,35.0242,-110.6974,Best Western Plus Winslow Inn
-540,Matagami,CA,14.0,light snow,49.7502,-77.6328,Hôtel Matagami
-545,Nuuk,GL,28.4,clear sky,64.1835,-51.7216,Vandrehuset
-549,Semirom,IR,39.76,broken clouds,31.4167,51.5667,سوئیت سام آرام Motel
-550,South Valley,US,46.0,clear sky,35.0101,-106.6781,desert palms rv park
-552,Kushima,JP,46.0,clear sky,31.4583,131.2333,Hanaoka
-559,Grindavik,IS,35.6,broken clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
-588,Dongsheng,CN,21.87,clear sky,39.8161,109.9776,Crowne Plaza Ordos
-590,Homer,US,33.8,clear sky,59.6425,-151.5483,Beluga Lake Lodge
-591,Nanortalik,GL,24.37,clear sky,60.1432,-45.2371,Hotel Kap Farvel
-596,Zasheyek,RU,18.0,broken clouds,67.4066,32.5499,Khostiel
-600,Uyskoye,RU,25.9,overcast clouds,54.3775,60.0047,Niva
-605,Zhanakorgan,KZ,39.16,overcast clouds,43.9098,67.2495,"""Ақпалас"" қонақ үйі"
-611,Smithers,CA,24.8,overcast clouds,54.7804,-127.1743,Prestige Hudson Bay Lodge
-612,Korla,CN,29.01,broken clouds,41.7597,86.1469,Gulisitan Hotel
-613,Salym,RU,34.95,light rain,60.0625,71.4789,Shinomontazh
-625,Quebec,CA,26.01,broken clouds,46.8123,-71.2145,Hilton Quebec
-628,Atasu,KZ,34.12,light rain,48.6814,71.6433,Dostyk
-630,Nurota,UZ,48.2,broken clouds,40.5614,65.6886,Guest House Ruslan Nurata & Tours
-640,Komsomolskiy,UZ,41.0,mist,40.4272,71.7189,Ikathouse
-642,Joshimath,IN,37.6,clear sky,30.5667,79.5667,Shivalik Camps & Resort
-645,Cubuk,TR,48.2,clear sky,40.2386,33.0322,Çubuk Öğretmenevi
-650,Vulcan,RO,41.11,overcast clouds,45.3833,23.2667,Paradisul verde
-655,Krasnoye,UA,26.6,clear sky,49.9145,24.6134,Feniks
-656,Griffith,US,12.2,clear sky,41.5284,-87.4237,"Motel 6 Hammond, IN - Chicago Area"
-657,Sanmenxia,CN,48.85,broken clouds,34.7747,111.1814,Pengzhou Hotel
-660,Spaichingen,DE,43.0,overcast clouds,48.0833,8.7167,Hotel Hofgut Hohenkarpfen
-664,Chengde,CN,24.39,broken clouds,40.9725,117.9361,Super 8 Hotel
-665,Karasuk,RU,27.45,broken clouds,53.7377,78.0403,London Siti Otel'
-671,Macamic,CA,15.8,snow,48.7502,-78.9996,"Maison Tardif Enr. - Auberge à Macamic, QC"
-681,Cap-Chat,CA,28.4,snow,49.1001,-66.6821,Motel Restaurant Nanook Inc.
-683,Lyndon,US,35.01,clear sky,38.2567,-85.6016,SpringHill Suites by Marriott Louisville Hurstbourne/North
-692,Urumqi,CN,10.4,mist,43.801,87.6005,Hua Ling Grand Hotel Urumqi
+0,Kaitangata,NZ,48.99,clear sky,-46.2817,169.8464,Kaitangata Motor Camp
+2,Seoul,KR,32.0,mist,37.5683,126.9778,Lotte Hotel Seoul
+4,Ushuaia,AR,48.2,drizzle,-54.8,-68.3,Albatros Hotel
+10,Palmer,US,30.99,broken clouds,42.1584,-72.3287,Wedgewood Motel
+11,Hamilton,US,26.01,overcast clouds,39.1834,-84.5333,Six Acres Bed & Breakfast
+20,San Patricio,US,42.8,overcast clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+26,Sorland,NO,37.4,broken clouds,67.667,12.6934,Sjybrygga fiskecamp
+34,Bethel,US,30.99,overcast clouds,41.3712,-73.414,Courtyard by Marriott Danbury
+36,Fortuna,US,50.0,light rain,40.5982,-124.1573,Super 8 by Wyndham Fortuna
+38,Juegang,CN,50.0,broken clouds,32.3174,121.1855,Rudong Y Hotel
+40,Katsuura,JP,45.0,clear sky,35.1333,140.3,Katsuura Hotel Mikazuki
+47,Narsaq,GL,37.4,broken clouds,60.9167,-46.05,Hotel Narsaq
+48,Hofn,IS,39.78,light rain,64.2539,-15.2082,Hótel Höfn
+57,Port Hawkesbury,CA,19.99,clear sky,45.6169,-61.3485,MacKenzie House Tourist Home B&B
+62,Nuuk,GL,23.0,broken clouds,64.1835,-51.7216,Vandrehuset
+63,Mataura,NZ,42.94,clear sky,-46.1927,168.8643,Ellie's Villa
+67,Pishin,PK,49.93,broken clouds,30.5803,66.9961,City Hotel Pishin
+68,Tawang,IN,34.07,clear sky,27.5833,91.8667,Hotel Mount View
+70,Havre-Saint-Pierre,CA,14.0,snow,50.2334,-63.5986,Auberge Niapiskau
+73,Gallup,US,48.2,clear sky,35.5281,-108.7426,Days Inn by Wyndham Flagstaff Near Downtown/NAU on Route 66
+77,Kitchener,CA,21.99,clear sky,43.4254,-80.5112,The Walper Hotel
+82,Honningsvag,NO,26.6,broken clouds,70.9821,25.9704,Nordkapp Vandrerhjem
+109,Jamestown,US,25.0,broken clouds,42.097,-79.2353,Hampton Inn & Suites Jamestown
+114,Olafsvik,IS,37.27,overcast clouds,64.8945,-23.7142,Hotel Olafsvik
+115,Severo-Kurilsk,RU,28.81,overcast clouds,50.6789,156.125,Kak Doma
+116,Raudeberg,NO,24.8,clear sky,61.9875,5.1352,Nordre Silda.
+120,Kodiak,US,37.4,moderate rain,57.79,-152.4072,Best Western Kodiak Inn And Convention Center
+126,Tromso,NO,26.6,light snow,69.6496,18.957,"Radisson Blu Hotel, Tromsø"
+137,Nemuro,JP,24.49,few clouds,43.3236,145.575,Hotel Nemuro Kaiyoutei
+138,Hasaki,JP,33.8,broken clouds,35.7333,140.8333,Inubosaki Kanko Hotel
+141,Shingu,JP,45.52,overcast clouds,33.7333,135.9833,Shingu UI Hotel
+148,Port-Cartier,CA,16.0,light snow,50.0334,-66.8654,Le Q'Artier
+149,Rongcheng,CN,49.57,overcast clouds,30.634,117.8517,Shell Shandong Liaocheng Development District South Huangshan Road Hotel
+151,Cubuk,TR,46.4,broken clouds,40.2386,33.0322,Çubuk Öğretmenevi
+152,Schleswig,DE,23.0,broken clouds,54.5167,9.55,Hotel Hohenzollern
+153,Hikone,JP,41.0,overcast clouds,35.25,136.25,Hikone Castle Resort & Spa
+154,Bonavista,CA,25.0,snow,48.6499,-53.1147,Abbott's Bed & Breakfast
+164,Tasiilaq,GL,17.6,overcast clouds,65.6145,-37.6368,The Red House
+172,Camden,US,32.0,overcast clouds,39.7835,-74.9663,Days Inn by Wyndham Berlin Voorhees
+174,Heze,CN,49.14,broken clouds,35.2431,115.4411,Hanting Express Heze North Mudang Road University Town
+175,Komsomolskiy,UZ,48.2,clear sky,40.4272,71.7189,Ikathouse
+178,Tanabe,JP,45.64,overcast clouds,33.7333,135.3667,美吉屋旅館
+189,Nanortalik,GL,29.8,light snow,60.1432,-45.2371,Hotel Kap Farvel
+195,Great Yarmouth,GB,32.0,scattered clouds,52.6083,1.7305,Comfort Hotel Great Yarmouth
+197,Mandalgovi,MN,11.46,clear sky,45.7625,106.2708,В.Ганбат
+202,Saeby,DK,19.4,clear sky,57.3319,10.5225,Hotel Viking Aqua Spa & Wellness Resort
+212,Nantucket,US,28.99,few clouds,41.2835,-70.0995,Jared Coffin House
+220,Wagrowiec,PL,19.4,broken clouds,52.8084,17.1996,Hotel Pietrak
+221,Ocean City,US,33.01,overcast clouds,39.2776,-74.5746,Biscayne Suites
+229,Kirovskiy,RU,16.97,overcast clouds,45.0917,133.5136,"Uyut, Gostinitsa"
+230,Qaqortoq,GL,37.4,broken clouds,60.7167,-46.0333,Hotel Qaqortoq
+234,Skjervoy,NO,23.0,snow,70.0311,20.9714,Skjervøy Byggeservice AS
+241,Pecos,US,32.0,overcast clouds,31.4229,-103.4932,Knights Inn Pecos
+252,Fujinomiya,JP,39.0,overcast clouds,35.2167,138.6167,Fujinomiya Green Hotel
+253,Hangu,CN,46.4,haze,39.2489,117.7892,Chongli Xuexiang Family Express Inn
+258,Mehamn,NO,24.8,scattered clouds,71.0357,27.8492,Mehamn Arctic Hotel AS
+262,Husavik,IS,26.6,clear sky,66.0449,-17.3389,Bjarnabúð
+266,Falam,MM,48.94,scattered clouds,22.9167,93.6833,Falang Government Guesthouse
+269,Vardo,NO,17.6,snow,70.3705,31.1107,Vardø Hotel AS
+272,Tucumcari,US,35.6,clear sky,35.1717,-103.725,Holiday Inn Express & Suites Tucumcari
+274,Xining,CN,29.7,scattered clouds,36.6167,101.7667,Super Leisure Hotel
+280,Shimoda,JP,39.0,overcast clouds,34.6667,138.95,Shimoda Tokyu Hotel
+281,Proletarsk,RU,45.34,overcast clouds,46.7031,41.7192,Hotel Sprinter
+282,Kamyshin,RU,31.32,overcast clouds,50.0983,45.416000000000004,Guest House Aviator
+292,Maniitsoq,GL,10.51,scattered clouds,65.4167,-52.9,Hotel Heilmann Lyberth
+300,Jiayuguan,CN,34.18,overcast clouds,39.8167,98.3,Jiugang Hotel - Jiayuguan
+301,Rupert,US,39.2,overcast clouds,42.6191,-113.6772,Uptown Motel
+305,Atyrau,KZ,39.2,mist,47.1167,51.8833,River Palace Hotel
+318,Sitka,US,26.6,clear sky,57.0531,-135.33,Westmark Sitka
+320,Andenes,NO,33.8,light snow,69.3143,16.1194,Hotell Marena
+322,Torbay,CA,23.0,heavy snow,47.6666,-52.7314,Gallows Cove
+324,Karlstad,SE,10.4,clear sky,59.3793,13.5036,Scandic Karlstad City
+330,Scarborough,GB,30.0,clear sky,54.2797,-0.4044,Ambassador
+331,Altay,CN,11.53,overcast clouds,47.8667,88.1167,Jinqiao Hotel
+332,Saryozek,KZ,34.72,overcast clouds,44.3583,77.9753,Gostinitsa
+355,Semirom,IR,36.43,clear sky,31.4167,51.5667,سوئیت سام آرام Motel
+366,Tuatapere,NZ,44.28,clear sky,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
+370,Te Anau,NZ,41.63,few clouds,-45.4167,167.7167,Kingsgate Hotel Te Anau
+371,Nara,JP,44.01,overcast clouds,34.6851,135.8049,Guesthouse Nara Komachi
+372,Vic,ES,48.0,overcast clouds,41.9301,2.2549,Up Rooms Vic Hotel ® - WEB OFICIAL
+380,Pavlohrad,UA,41.0,overcast clouds,48.5167,35.8667,Kompleks Stylʹ
+385,Roald,NO,23.0,clear sky,62.5833,6.1333,Flem Cabins
+403,Shaowu,CN,49.84,broken clouds,27.3409,117.4831,Yijie Express Hotel
+415,Chenove,FR,26.6,clear sky,47.2932,5.0046,Hôtel Restaurant Campanile Dijon Gare
+418,Asau,RO,26.01,light snow,46.4333,26.4,Casa Mika Ciobanus
+422,Beyneu,KZ,38.91,clear sky,45.3167,55.2,NUR
+436,Grindavik,IS,37.4,overcast clouds,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+437,Newport,GB,33.01,overcast clouds,51.5877,-2.9984,ibis budget Newport
+438,Ilulissat,GL,10.4,snow,69.2167,-51.1,Hotel Arctic
+441,Paamiut,GL,25.56,clear sky,61.994,-49.6678,Yeet Hotel
+447,Kuandian,CN,27.82,broken clouds,40.7286,124.7847,Hi Inn Dandong Kuandian Ji Xian Garden
+451,Freeport,US,32.0,overcast clouds,40.6576,-73.5832,The Freeport Inn and Marina
+452,Little Current,CA,10.99,clear sky,45.9793,-81.9248,Hawberry Motel
+462,Shawville,CA,15.01,clear sky,45.6001,-76.4827,Shawville Hotel
+468,Elizabeth City,US,46.0,mist,36.2946,-76.2511,Hampton Inn Elizabeth City
+473,Margate,GB,33.01,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+478,Tobermory,CA,12.2,overcast clouds,45.2501,-81.6665,Escarpment Heights Motel
+482,Northam,GB,36.0,overcast clouds,51.0333,-4.2167,Durrant House Hotel
+483,Sept-Iles,CA,16.0,light snow,50.2001,-66.3821,Comfort Inn
+496,Goderich,CA,19.4,overcast clouds,43.7501,-81.7165,Harmony Inn
+500,Gilgit,PK,35.76,clear sky,35.9221,74.3087,Tourist Hamlet Gilgit
+510,Hami,CN,28.85,few clouds,42.8,93.45,Laoyutang Resort
+511,Liuhe,CN,26.73,overcast clouds,42.2401,125.7172,Grain Hostel
+514,Peterhead,GB,35.01,overcast clouds,57.5058,-1.7981,Palace Hotel
+515,Xianshuigu,CN,46.4,haze,38.985,117.3828,Guangchuan Hotel
+519,Horsham,GB,30.0,clear sky,51.06399999999999,-0.3272,Springfields Hotel
+522,Hailey,US,33.01,scattered clouds,43.5196,-114.3153,Wood River Inn & Suites
+524,Baft,IR,46.83,overcast clouds,29.234,56.6057,بافت خیابان طالقانی غربی ساختمان مادر
+534,Klaksvik,FO,33.8,few clouds,62.2266,-6.5889999999999995,Airbnb rooms
+536,Oyama,JP,46.0,broken clouds,36.3,139.8,Toyoko Inn Oyama-eki Higashi-guchi No.1
+537,Karakol,KG,31.78,overcast clouds,42.4907,78.3936,"Gostinitsa ""Al'tamira"""
+548,Monroe,US,26.01,light snow,43.1501,-77.6831,Staybridge Suites Rochester University
+550,Portree,GB,32.0,clear sky,57.4129,-6.1942,The Royal Hotel
+551,Pila,PL,14.56,clear sky,53.1515,16.7378,Hotel Gromada
+557,Tanggu,CN,46.4,haze,39.0211,117.6469,Ibis Tianjin Tanggu Hotel
+558,Corpus Christi,US,44.6,light intensity drizzle,27.8006,-97.3964,Holiday Inn Corpus Christi Downtown Marina
+559,Rottingdean,GB,33.01,few clouds,50.8098,-0.0594,Snooze
+560,Nur,PL,10.0,overcast clouds,52.6683,22.3221,Agroturystyka nad Bugiem u Krysi
+566,Hope,US,32.0,overcast clouds,33.6671,-93.5916,Best Western Hope
+576,Juneau,US,24.8,few clouds,58.3019,-134.4197,"Baranof Downtown, Bw Signature Collection"
+580,Zhangye,CN,30.58,scattered clouds,38.9342,100.4517,Zhangye Lvzhou Holiday Inn
+581,Chifeng,CN,26.24,clear sky,42.2683,118.9636,Junyu Tiancheng Hotel
+589,Spasskoye,RU,20.05,broken clouds,44.6108,132.7969,Hotel Primorskiy Dok
+600,Nanjing,CN,48.99,clear sky,32.0617,118.7778,东方珍珠饭店
+606,Sujiatun,CN,37.4,overcast clouds,41.6592,123.3392,Hunnan Di Yicun Northern District
+611,Kiruna,SE,10.4,overcast clouds,67.8557,20.2251,Camp Ripan
+613,Zhanakorgan,KZ,36.52,broken clouds,43.9098,67.2495,"""Ақпалас"" қонақ үйі"
+617,Heerenveen,NL,30.2,overcast clouds,52.95,5.9333,Fletcher Hotel-Restaurant Heidehof
+619,Ketchikan,US,21.2,clear sky,55.3422,-131.6461,Snows Cove Lodge
+623,Portland,US,37.0,overcast clouds,45.5234,-122.6762,Embassy Suites by Hilton Portland Downtown
+626,Cheyenne,US,37.0,light snow,41.14,-104.8203,The Historic Plains Hotel & Restaurant
+629,Mestia,GE,31.8,broken clouds,43.0458,42.7278,Hotel Villa Mestia
+631,Hazorasp,UZ,37.4,clear sky,41.3194,61.0742,Kemping wifi hotel
+637,North Laurel,US,34.0,overcast clouds,39.139,-76.8705,Days Inn & Suites by Wyndham Laurel Near Fort Meade
+638,Brae,GB,35.74,broken clouds,60.3964,-1.3530000000000002,Busta House Hotel
+650,Linjiang,CN,22.26,scattered clouds,41.8069,126.9078,Mingmen Business Hotel
+651,Helong,CN,27.21,clear sky,42.5397,128.9972,Helong Hotel
+653,Birin,NP,49.03,clear sky,26.8865,88.0718,Sangam hotel and lodge
+659,Kinna,SE,14.0,clear sky,57.5073,12.6946,Hanatorps Camping
+662,Port Hardy,CA,33.8,broken clouds,50.6996,-127.4199,Airport Inn
+665,Nogliki,RU,14.0,overcast clouds,51.8333,143.1667,"Hotel ""Nogliki"""
